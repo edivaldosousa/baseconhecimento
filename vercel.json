@@ -1,3 +1,5 @@
 {
-  "root": "baseconhecimento-web"
+  "buildCommand": "cd baseconhecimento-web && npm run build",
+  "installCommand": "cd baseconhecimento-web && npm install",
+  "outputDirectory": "baseconhecimento-web/.next"
 }
